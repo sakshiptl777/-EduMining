@@ -5,6 +5,8 @@ EduMining is a decentralized smart contract platform built on Ethereum that allo
 
 ## Contract Address
 0xd4412c33761659896B51F83f6A2C2DbC56E21E92
+![{E0156C18-C600-4CD6-B00D-AE5A7E7F16CD}](https://github.com/user-attachments/assets/934bdb4b-203c-4277-8b17-fceb8be66099)
+
 
 ## Project Vision
 EduMining aims to create a robust and user-friendly staking platform that rewards community members for their contributions. By integrating LP token staking and reward distribution mechanisms, EduMining fosters ecosystem growth while empowering users with financial incentives.
